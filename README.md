@@ -8,15 +8,15 @@
 ### Projects
 
 - **Roblox**
- - https://github.com/Giant427/MovementHandler
- - https://github.com/Giant427/Rjac
+  - https://github.com/Giant427/MovementHandler
+  - https://github.com/Giant427/Rjac
 
 - **JavaScript**
- - https://github.com/Giant427/spot-dl
- - https://github.com/Giant427/spot-dl-downloader
+  - https://github.com/Giant427/spot-dl
+  - https://github.com/Giant427/spot-dl-downloader
  
 - **Website**
- - https://github.com/Giant427/Weather-App
+  - https://github.com/Giant427/Weather-App
  
 ### About Me
 
